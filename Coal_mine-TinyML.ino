@@ -1,9 +1,9 @@
 // ==========================================
 // BLYNK CREDENTIALS
 // ==========================================
-#define BLYNK_TEMPLATE_ID "TMPL3kKLUx8Y3"
+#define BLYNK_TEMPLATE_ID "Blynk_Temp_id"
 #define BLYNK_TEMPLATE_NAME "Coal Mine Robot"
-#define BLYNK_AUTH_TOKEN "fJeaeRSSp389X1OncKHNG9UMEQjyzcy6"
+#define BLYNK_AUTH_TOKEN "Blynk_auth_token"
 
 #include <WiFi.h>
 #include <WiFiClient.h>
